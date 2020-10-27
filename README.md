@@ -31,4 +31,5 @@ Membuat desain Flyer A3
 
 MUHAMMAD REALDI (09011281823070)<br/>
 Analisa Jaringan Provider Telkomsel di wilayah Kota Palembang<br/>
-Membuat desain Flyer A3
+Membuat desain Flyer A3<br/>
+Membuat link GitHub untuk tempat mengumpulkan tugas
