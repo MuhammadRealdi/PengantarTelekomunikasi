@@ -24,6 +24,7 @@ Membuat Laporan Analisa Jaringan
 
 JEPI SUJANA (09011281823061)<br/>
 Analisa Jaringan Provider Telkomsel di wilayah Kab. Buay Madang, OKU Timur<br/>
+Membuat pdf pembagian tugas
 
 MUHAMMAD FARHAN ALHARITS (09011281823067) <br/>
 Analisa Jaringan Provider XL di wilayah Kota Palembang<br/>
