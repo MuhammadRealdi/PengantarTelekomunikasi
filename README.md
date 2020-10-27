@@ -1,4 +1,4 @@
-# PengantarTelekomunikasi
+# Pengantar Telekomunikasi
 Mata kuliah Pengantar Telekomunikasi
 SISTEM KOMPUTER
 FAKULTAS ILMU KOMPUTER
